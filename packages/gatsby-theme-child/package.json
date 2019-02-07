@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-theme-child",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "gatsby-plugin-page-creator": "^2.0.6",
+    "gatsby-source-filesystem": "^2.0.20",
+    "gatsby-theme-livestream": "*"
+  },
+  "devDependencies": {
+    "gatsby": "^2.0.117",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.0.117",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  },
+  "license": "MIT"
+}

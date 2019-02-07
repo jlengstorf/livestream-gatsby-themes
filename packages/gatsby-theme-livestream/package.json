@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-theme-livestream",
+  "version": "0.0.1",
+  "description": "A Gatsby theme we built live!",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gatsby": "^2.0.117",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.0.117",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^0.16.8",
+    "@mdx-js/tag": "^0.16.8",
+    "gatsby-mdx": "^0.3.5",
+    "gatsby-plugin-page-creator": "^2.0.6"
+  }
+}
